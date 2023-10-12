@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845839108778",
+    "project_id": "pbsbss-6b3f5",
+    "storage_bucket": "pbsbss-6b3f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845839108778:android:efe8d6b30bfc81150eded3",
+        "android_client_info": {
+          "package_name": "com.pbs.batteryswappingstation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinU2j49Xaxl6P8EeQ7xeWkbWMSDRHEJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
